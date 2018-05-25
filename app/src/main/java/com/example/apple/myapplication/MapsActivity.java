@@ -27,6 +27,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         int i = 0;
         i++;
         Log.i("Info","Value of i "+i);
+        //great work...
     }
 
 
